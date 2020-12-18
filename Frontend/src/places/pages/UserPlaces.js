@@ -18,7 +18,7 @@ const DUMMY_PLACES = [
     },
     {
         id: 'p2',
-        title: 'Empire State Building',
+        title: 'Emp. State Building',
         description: 'One of the tallest skyscrapers in the world!',
         imageURL: 'https://lh5.googleusercontent.com/p/AF1QipMRCdcCmyc_7g1pbDYgudRNUhPe82FuhqzMjqOq=w408-h510-k-no',
         address: '2 W 34th St, New York, NY 10001',

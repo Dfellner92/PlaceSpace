@@ -4,6 +4,8 @@ import { BrowserRouter as Router, Redirect, Route, Switch } from 'react-router-d
 import Users from './user/pages/Users';
 import NewPlace from './places/pages/NewPlace';
 import UserPlaces from './places/pages/UserPlaces';
+import UpdatePlace from './places/pages/UpdatePlace';
+import Auth from './user/pages/Auth';
 import MainNavigation from './shared/components/Navigation/MainNavigation';
 
 const App = () => {
@@ -20,6 +22,14 @@ const App = () => {
         </Route>
         <Route path="/places/new" exact>
           <NewPlace />
+        </Route>
+        {/* /places/:placeId must be below 
+        /places/new  */}
+        <Route path="/places/:placeId" exact>
+          <UpdatePlace />
+        </Route>
+        <Route path="/auth">
+          <Auth />
         </Route>
         <Redirect to="/" />
       </Switch>
