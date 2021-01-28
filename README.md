@@ -4,12 +4,24 @@
 
 This app allows for the user to log in with basic authentication, post and view places, as well as the abilities to upate and delete one's own places. Additionally, the user can view posted places located on Google Maps. 
 
+##### Signup
 
-![imageOfSignup](./Screenshots/singup.jpg)
+![imageOfSignup](./Screenshots/signup.jpg)
+
+##### Loading Page
 
 ![imageOfLoadingPage](./Screenshots/loadingAfterLoginOrSignup.jpg)
+
+##### Adding Places
+
 ![imageOfAddingPlace](./Screenshots/addingPlace.jpg)
+
+##### Viewing Place
+
 ![imageOfViewingPlace](./Screenshots/viewingPlace.jpg)
+
+##### Google Maps API
+
 ![imageOfGoogleMaps](./Screenshots/googleMaps.jpg)
 
 ### Purpose 
