@@ -46,7 +46,7 @@ Upon graduating from Rutgers Coding Bootcamp, I wished to expand upon my knowled
 ### Future Improvements
 
 - Hosting the app with a more elaborate hosting service/plan, as the free heroku plan that currently hosts the platform doesn't save images within files.
-- 
+- Incorporating a GraphQL component for the backend to allow for relational data to be accessed/shared. 
 
 ### Links
 
