@@ -3,7 +3,7 @@
 ### Overview (two sentences)
 
 
-![Image of Signup](file:///Users/danielfellner/Desktop/Screen%20Shot%202021-01-27%20at%2012.11.38%20AM.png)
+![Image of Signup](./Screenshots/Screen%20Shot%202021-01-27%20at%2012.11.38%20AM.png)
 
 ### Purpose 
 
