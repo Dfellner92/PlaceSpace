@@ -7,13 +7,13 @@ This app allows for the user to log in with basic authentication, post and view 
 
 ![Image of Signup](./Screenshots/Screen%20Shot%202021-01-27%20at%2012.11.38%20AM.png)
 
-![Image of Loading Page upon Signup/Login](./Screenshots/Screen Shot 2021-01-26 at 11.38.21 PM.png)
+![Image of Loading Page upon Signup/Login](./Screenshots/Screen Shot 2021-01-26 at 11.38.21 PM.png?raw=true)
 
-![Image of Adding a Place](./Screenshots/Screen Shot 2021-01-26 at 11.43.20 PM.png)
+![Image of Adding a Place](./Screenshots/Screen Shot 2021-01-26 at 11.43.20 PM.png?raw=true)
 
-![Image of Place Added](./Screenshots/Screen Shot 2021-01-26 at 11.43.43 PM.png)
+![Image of Place Added](./Screenshots/Screen Shot 2021-01-26 at 11.43.43 PM.png?raw=true)
 
-![Image of Google Maps](./Screenshots/Screen Shot 2021-01-26 at 11.43.57 PM.png)
+![Image of Google Maps](./Screenshots/Screen Shot 2021-01-26 at 11.43.57 PM.png?raw=true)
 
 
 ### Purpose 
